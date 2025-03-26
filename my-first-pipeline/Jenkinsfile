@@ -1,4 +1,3 @@
-this is jenkins
 pipeline {
   agent {
     docker { image 'node:16-alpine' }
